@@ -1,5 +1,5 @@
 import sys
-import clipboard  #module
+import clipboard  
 import json
 
 
